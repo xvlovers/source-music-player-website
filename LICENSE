@@ -1,0 +1,40 @@
+Xvlovers Free Share License (non-commercial, credit required)
+
+Copyright (c) 2026 Xvlovers (https://github.com/xvlovers)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated files (the "Software"), to use, copy, modify,
+and share the Software, subject to the following conditions:
+
+1. CREDIT. The credit notice in the file "credit.md" and this copyright notice
+   must be kept in all copies and derivative works. You may add your own
+   credit below the original credit, but you may not remove or replace it.
+
+2. NO SALE. The Software is free and may not be sold. You may not charge money
+   for the Software or for a copy of it, and may not include it in a paid
+   product, paid download, or paid subscription as the thing being sold.
+
+3. SHARING. You may share the Software and your modified versions for free,
+   under these same terms.
+
+4. THIRD-PARTY MATERIAL. Dependencies (such as Next.js, React, Tailwind CSS,
+   Zustand, lucide-react) remain under their own licenses. Music, artwork and
+   metadata fetched at runtime from third-party services (such as Audius)
+   belong to their owners and are subject to those services' terms. This
+   license does not cover them.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+----------------------------------------------------------------------------
+Ringkasan (Bahasa Indonesia, hanya untuk memudahkan; teks Inggris di atas
+yang berlaku):
+- Gratis dipakai, diubah, dan dibagikan.
+- Jangan hapus credit di credit.md dan notice ini. Credit tambahan taruh di
+  bawah credit utama.
+- Tidak boleh dijual.
+- Musik/artwork dari layanan pihak ketiga (misal Audius) milik pemiliknya.

@@ -1,8 +1,6 @@
-##secret credit, dont delete this##
-#name: source web music
 #author: Xvlovers
 #github: https://github.com/xvlovers
 #channel whatsapp: https://whatsapp.com/channel/0029VbCKJpb6LwHpbtC1mb3E
 #CREDIT: ©XVLOVERS
-
-**source kode ini di buat oleh Xvlovers official & gratis 100% di share ke channel whatsapp, kalau ada yang jual source ini, laporin ke nomor owner(link di deskripsi channe)**
+#CREDIT2: Your name
+**NOTES: SOURCE WEB INI FREE 100% DAN TIDAK DI JUAL, BOLEH DI SHARE SHARE TAPI JANGAN HAPUS CREDIT DI ATAS. KALAU MAU NAMBAHIN CREDIT, TAMBAHIN AJA DI BAGIAN BAWAH CREDIT UTAMA. HARGAIN DEVELOPER PEMBUAT SOURCE NYAAA YAAAA!!**
